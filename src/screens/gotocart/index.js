@@ -1,0 +1,1 @@
+export {GoToCart} from './GoToCart';
